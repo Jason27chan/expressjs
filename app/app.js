@@ -8,3 +8,4 @@ var myServer = http.createServer(function(request, response) {
 });
 
 myServer.listen(3000);
+console.log("Go to localhost:3000");
